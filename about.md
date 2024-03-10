@@ -14,4 +14,8 @@ and youtube shorts together into a tapestry here for you to dive into. And extra
 
 I'd like this site, over time, to get at the core of how to tell dnd stories. How to build campaigns? Sessions? Villains? Puzzles?
 
+I also intend to use AI as a co-creator of the content on this site. Take for example Aunt Griselda here: I could never draw that without
+the help of ChatGPT. This has _some_ drawbacks, see for example the way she's holding her teacup. This only really works, because Aunt Griselda
+is magic.
+
 ![Aunt Griselda drinking tea]({{ 'assets/images/aunt-griselda.jpeg' | relative_url }})
