@@ -1,1 +1,34 @@
-{{ content }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gruvbox Themed Blog</title>
+    <link rel="stylesheet" href="assets/css/main.css"> <!-- Link to your compiled SCSS -->
+</head>
+<body>
+    <header>
+        <h1>Gruvbox Themed Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h2>Article Title</h2>
+            <p class="date">March 10, 2024</p>
+            <p>Summary of the article...</p>
+            <a href="#">Read more...</a>
+            {{ content }}
+        </article>
+        <!-- Add more articles here -->
+    </main>
+    <footer>
+        <p>&copy; 2024 Gruvbox Themed Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>

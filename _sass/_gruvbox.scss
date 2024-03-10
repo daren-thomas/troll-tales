@@ -1,0 +1,66 @@
+// Define Gruvbox color variables
+$bg-color: #282828;
+$main-text-color: #ebdbb2;
+$accent-color: #d79921;
+$light-accent-color: #fabd2f;
+$dark-accent-color: #b57614;
+$link-color: #83a598;
+$link-hover-color: #8ec07c;
+$header-footer-bg: #3c3836;
+
+// Apply base styles
+body {
+    background-color: $bg-color;
+    color: $main-text-color;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+    &:hover {
+        color: $link-hover-color;
+    }
+}
+
+header, footer {
+    background-color: $header-footer-bg;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+        display: inline;
+        margin: 0 10px;
+
+        a {
+            color: $light-accent-color;
+        }
+    }
+}
+
+main {
+    padding: 20px;
+    
+    article {
+        margin-bottom: 20px;
+        
+        h2 {
+            color: $accent-color;
+        }
+
+        .date {
+            color: $dark-accent-color;
+        }
+    }
+}
+
+footer {
+    p {
+        color: $light-accent-color;
+    }
+}
