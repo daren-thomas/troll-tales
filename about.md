@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About this site
 ---
 
 Until I actually have any content worth mentioning posted here, let me quickly explain what I _intend_ this site to become:
