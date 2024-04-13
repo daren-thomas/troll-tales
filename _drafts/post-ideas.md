@@ -1,0 +1,6 @@
+- let's do a bunch of random tables for stuff
+- lists of words and stuff for specific scenarios
+  - how to describe boat parts
+  - how to describe a tavern
+  - things that you can expect in a castle
+- portals in battle maps (see the mushroom dance)
