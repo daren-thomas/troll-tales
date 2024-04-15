@@ -4,3 +4,6 @@
   - how to describe a tavern
   - things that you can expect in a castle
 - portals in battle maps (see the mushroom dance)
+- five room dungeon generator?
+- crafting good chatgpt thingies for generating dnd ideas
+- founding myths (https://youtube.com/shorts/LwWDHWDxpd8?si=b3ppxVvBJkMmYnQs)
