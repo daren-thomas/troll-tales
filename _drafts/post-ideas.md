@@ -7,3 +7,5 @@
 - five room dungeon generator?
 - crafting good chatgpt thingies for generating dnd ideas
 - founding myths (https://youtube.com/shorts/LwWDHWDxpd8?si=b3ppxVvBJkMmYnQs)
+- Aunt Griselda
+- irish mythology (https://chat.openai.com/share/8d74608b-7c32-4584-96a6-4c93cd546d75)
