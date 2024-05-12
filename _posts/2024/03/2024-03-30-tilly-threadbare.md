@@ -14,7 +14,7 @@ Despite her child-like appearance, Tilly exudes an air of ageless wisdom. Her vo
 
 Tilly Threadbare is a guardian of lost things and forgotten stories. Created by a powerful but lonely witch as a companion, she gained sentience over centuries of absorbing magic from the land and the emotions of those around her. Tilly has witnessed the rise and fall of empires, the birth and extinction of species, yet she finds herself drawn to the simple act of comforting a crying child or guiding lost travelers.
 
-![Tilly Threadbare]({{ 'assets/images/tilly-threadbare.jpeg' | relative_url }})
+![Tilly Threadbare](tilly-threadbare.jpeg)
 
 
 While Tilly might seem fragile, she possesses unique abilities tied to her nature as a magical construct. She can make herself nearly invisible to adults, often seen only by children or those with a pure heart. Tilly can also weave magic into her yarn hair to cast simple spells, primarily for protection, healing minor wounds, or finding lost objects. Her greatest power, however, lies in her ability to sense disturbances in the magical fabric of the world, making her sensitive to portals, enchantments, or creatures hiding or sneaking in the shadows.
