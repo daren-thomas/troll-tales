@@ -9,3 +9,7 @@
 - founding myths (https://youtube.com/shorts/LwWDHWDxpd8?si=b3ppxVvBJkMmYnQs)
 - Aunt Griselda
 - irish mythology (https://chat.openai.com/share/8d74608b-7c32-4584-96a6-4c93cd546d75)
+- magazines
+	- https://www.worldbuildingmagazine.com/
+	- https://yumdm.com/zines/ (also interesting blog...)
+	- 
