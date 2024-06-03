@@ -12,7 +12,7 @@ tags:
 The Golden Harpies are an elite squadron of fearless female aviators known for their mastery of magical steam-punk delta gliders and their unwavering commitment to protecting the skies.
 They are based in The Harpy's Roost, a towering natural pillar rising from the heart of the Endless Plains.
 
-![./the-harpy-s-roost.jpg]
+![The Harpy's Roost](./the-harpy-s-roost.jpg)
 
 ## Origins and History
 
