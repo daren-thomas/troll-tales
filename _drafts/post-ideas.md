@@ -5,10 +5,13 @@
   - things that you can expect in a castle
 - portals in battle maps (see the mushroom dance)
 - five room dungeon generator?
+- https://scrollforinitiative.com/
 - crafting good chatgpt thingies for generating dnd ideas
 - founding myths (https://youtube.com/shorts/LwWDHWDxpd8?si=b3ppxVvBJkMmYnQs)
 - Aunt Griselda
 - irish mythology (https://chat.openai.com/share/8d74608b-7c32-4584-96a6-4c93cd546d75)
+- https://www.amazon.com/Game-Masters-Handbook-Proactive-Roleplaying/dp/1956403442
+- https://www.youtube.com/watch?v=vM18P0WKGFA - TESS method for traveling from the pointy hat guy
 - magazines
 	- https://www.worldbuildingmagazine.com/
 	- https://yumdm.com/zines/ (also interesting blog...)
