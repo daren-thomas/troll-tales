@@ -16,6 +16,7 @@ body {
     background-color: $bg-color;
     color: $main-text-color;
     font-family: 'Helvetica', 'Arial', sans-serif;
+    margin: 0px;
 }
 
 a {
@@ -46,11 +47,21 @@ nav ul {
     }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: $accent-color;
+}
+
 main {
     padding: 20px;
     
     article {
+        margin-top: 10px;
         margin-bottom: 20px;
+        background-color: $card-background;
+        border: 1px solid $border-color;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+        padding: 0 10px 0 10px;
         
         h2 {
             color: $accent-color;
