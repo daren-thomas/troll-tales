@@ -1,0 +1,6 @@
+<p class="post-meta">
+    Published on {{ page.date | date: "%B %-d, %Y" }} | Tagged
+        {% for tag in page.tags %}
+        <a class="post" href="{{ '/tag/' | append: tag | relative_url }}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+</p>

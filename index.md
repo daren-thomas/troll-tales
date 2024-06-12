@@ -8,7 +8,10 @@ title: Troll Tales
   <div class="card">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p class="post-meta">
-      Published on {{ post.date | date: "%B %-d, %Y" }} | Tags: {{ post.tags | array_to_sentence_string }}
+      Published on {{ post.date | date: "%B %-d, %Y" }} | Tagged
+        {% for tag in post.tags %}
+        <a class="post" href="{{ '/tag/' | append: tag | relative_url }}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
     </p>
     <p class="post-snippet">{{ post.excerpt }}</p>
   </div>
