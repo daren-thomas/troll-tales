@@ -6,8 +6,6 @@ title: Tilly Threadbare
 layout: post
 ---
 
-## Tilly Threadbare
-
 Tilly appears at first glance to be a large, well-loved rag doll. She stands about three feet tall, with mismatched button eyes, yarn hair in a tangle of colors, and patchwork skin of various textures and shades. Her clothes, a patchwork of different fabrics, seem to change slightly with her mood or the time of day.
 
 Despite her child-like appearance, Tilly exudes an air of ageless wisdom. Her voice is soft and comforting, yet carries an undertone of sadness. She moves with surprising grace, each step deliberate, as if she's treading between worlds unseen.

@@ -1,5 +1,6 @@
 // Define Gruvbox color variables
 $bg-color: #282828;
+$card-background: #3c3836;
 $main-text-color: #ebdbb2;
 $accent-color: #d79921;
 $light-accent-color: #fabd2f;
@@ -7,6 +8,8 @@ $dark-accent-color: #b57614;
 $link-color: #83a598;
 $link-hover-color: #8ec07c;
 $header-footer-bg: #3c3836;
+$border-color: #504945;
+$meta-text-color: #bdae93;
 
 // Apply base styles
 body {
@@ -64,3 +67,39 @@ footer {
         color: $light-accent-color;
     }
 }
+
+
+.cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .card {
+    background-color: $card-background;
+    border: 1px solid $border-color;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    width: 100%;
+    transition: transform 0.2s;
+    color: $main-text-color;
+  
+    &:hover {
+      transform: scale(1.02);
+    }
+  
+    h2 {
+      margin-top: 0;
+    }
+  
+    .post-meta {
+      color: $meta-text-color;
+      font-size: 0.9em;
+      margin: 10px 0;
+    }
+  
+    .post-snippet {
+      color: $main-text-color;
+    }
+  }
