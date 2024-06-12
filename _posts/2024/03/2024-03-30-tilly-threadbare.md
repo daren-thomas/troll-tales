@@ -2,6 +2,7 @@
 tags:
   - npc
   - the-gerbil-kings-quest
+  - chatgpt
 title: Tilly Threadbare
 layout: post
 ---

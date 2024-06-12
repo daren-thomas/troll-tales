@@ -103,3 +103,30 @@ footer {
       color: $main-text-color;
     }
   }
+
+  .post-footer {
+    padding-top: 20px;
+    border-top: 1px solid $border-color;
+    margin-top: 40px;
+  }
+  
+  .post-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .previous-post,
+  .next-post {
+    font-size: 1em;
+  }
+  
+  .previous-post a,
+  .next-post a {
+    color: $link-color;
+    text-decoration: none;
+  
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
