@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Give Your Scenes Movement
-tags: [dm]
+tags: [dungeon-master]
 ---
 
 Just watched the following video on youtube: [D&D Exploration SUCKS. This is why](https://www.youtube.com/watch?v=Sd2svbU7t50).
