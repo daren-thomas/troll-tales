@@ -1,0 +1,53 @@
+// SCSS version of the Dungeon Master's Guide style table with Gruvbox light mode theme
+
+$table-bg: #fbf1c7;
+$table-header-bg: #d5c4a1;
+$table-row-even-bg: #ebdbb2;
+$table-row-odd-bg: #f2e5bc;
+$table-hover-bg: #d5c4a1;
+$table-text-color: #3c3836;
+$table-border-color: #665c54;
+
+// Table Styles
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: $table-bg;
+  color: $table-text-color;
+
+  th, td {
+    border: 1px solid $table-border-color;
+    padding: 12px;
+    text-align: left;
+  }
+
+  th {
+    background-color: $table-header-bg;
+    color: #3c3836;
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) {
+    background-color: $table-row-even-bg;
+  }
+
+  tr:nth-child(odd) {
+    background-color: $table-row-odd-bg;
+  }
+
+  tr:hover {
+    background-color: $table-hover-bg;
+  }
+
+  caption {
+    font-size: 1.3em;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: $table-text-color;
+  }
+
+  td {
+    vertical-align: middle;
+    padding: 10px 15px;
+  }
+} 
