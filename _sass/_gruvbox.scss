@@ -37,8 +37,18 @@ nav ul {
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, b, i, strong, em {
   color: $accent-color;
+}
+
+blockquote {
+  border-left: 1px solid $bright-orange;
+  padding-inline-start: 1em;
+  margin-inline-start: 0em;
+  margin-inline-end: 1em;
+  background-color: #504945;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 main {

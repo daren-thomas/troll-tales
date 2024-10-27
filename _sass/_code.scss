@@ -1,0 +1,43 @@
+/* General container for the highlighted code */
+.language-plaintext.highlighter-rouge {
+    background-color: #2d2d2d;  /* Dark background color */
+    border-radius: 5px;  /* Rounded corners */
+    padding: 15px;
+    position: relative;
+    font-family: 'Fira Code', monospace;  /* Monospaced font for coding */
+    color: #a8c090;  /* Soft green for text */
+}
+
+/* Styling the highlight container */
+.highlight {
+    overflow: auto;
+    padding: 10px;
+}
+
+/* Style for the preformatted text */
+.highlight pre.highlight {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;  /* Remove default margins */
+    color: #c5e4d2;  /* Slightly brighter color for better readability */
+}
+
+/* Styling the code itself */
+.highlight code {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: inherit;  /* Use inherited color */
+}
+
+/* Syntax highlighting (example classes for customization) */
+.highlight .number {
+    color: #f08d49; /* Light orange for numbers */
+}
+
+.highlight .variable {
+    color: #5fb3b3; /* Teal color for variables */
+}
+
+.highlight .operator {
+    color: #f0c674; /* Yellow for operators like "+" */
+}
