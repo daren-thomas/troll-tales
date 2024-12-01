@@ -8,7 +8,7 @@ tags:
   - 5-room-dungeon
 ---
 
-In this [5 Room Dungeon](https://www.roleplayingtips.com/5-room-dungeons/), the adventurers venture into a site long forgotten that used to be a temple to the [Godess Lamentra]({% post_url 2024-04-21-lamentra %}).
+In this [5 Room Dungeon](https://www.roleplayingtips.com/5-room-dungeons/), the adventurers venture into a site long forgotten that used to be a temple to the [Godess Lamentra]({% post_url 2024/04/2024-04-21-lamentra %}).
 
 The main point of this quest is to retrieve an important item at the end of the dungeon. How the player hears about the Sunken Temple of Lamentra and what exactly they need to retrieve can be filled with whatever your campaign needs.
 
