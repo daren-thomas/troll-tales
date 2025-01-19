@@ -30,6 +30,8 @@ concurrency:
 
 # .github/workflows/jekyll.yml
 
+# .github/workflows/jekyll.yml
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -39,11 +41,13 @@ jobs:
       - name: Install rbenv and update ruby-build
         run: |
           sudo apt-get update
-          sudo apt-get install -y rbenv ruby-build
+          sudo apt-get install -y rbenv
+          rbenv init
+          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
           rbenv install 3.2.4
           rbenv global 3.2.4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408
         with:
           ruby-version: '3.2.4'
           bundler-cache: true
