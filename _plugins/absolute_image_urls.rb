@@ -1,6 +1,6 @@
 Jekyll::Hooks.register [:pages, :posts], :post_render do |doc|
     # Only perform the replacement when in production mode
-    if Jekyll.env == 'production' && doc.output_ext == '.html'
+    if Jekyll.env == 'production' && (doc.output_ext == '.html' || doc.output_ext == '.xml')
       site_url = doc.site.config['url'] || ''
   
       # Determine the base path for the current document.
