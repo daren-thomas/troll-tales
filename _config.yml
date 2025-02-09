@@ -1,10 +1,5 @@
 title: "Troll Tales"
 permalink: /:year/:month/:day/:title/
 
-plugins:
-  - jekyll-feed
-
-feed:
-  tags: true
-
-url: "https://daren-thomas.github.io/troll-tales/"
+url: "https://daren-thomas.github.io"
+baseurl: "/troll-tales"

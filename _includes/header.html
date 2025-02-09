@@ -3,5 +3,5 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"> <!-- Link to your compiled SCSS -->
-    {% feed_meta %}
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 </head>

@@ -1,20 +1,33 @@
-Jekyll::Hooks.register [:pages, :posts], :post_render do |doc|
-    # Only perform the replacement when in production mode
-    if Jekyll.env == 'production' && (doc.output_ext == '.html' || doc.output_ext == '.xml')
-      site_url = doc.site.config['url'] || ''
-  
-      # Determine the base path for the current document.
-      base_path = doc.url
-      unless base_path.end_with?('/')
-        base_path = File.dirname(base_path)
-        base_path = '/' if base_path == '.'
-        base_path += '/' unless base_path.end_with?('/')
+module Jekyll
+    module AbsoluteUrlFilter
+      # Converts relative image paths (starting with "./") to absolute URLs.
+      # Expects a base URL to be passed in (e.g. the post's base path).
+      def absolute_img_urls(input, base_url = '')
+        site_url = @context.registers[:site].config['url']
+        base_url = base_url.to_s
+        base_url += '/' if base_url != '' && !base_url.end_with?('/')
+        # Replace occurrences of src="./..." with an absolute URL.
+        input.gsub(/src="\.\/([^"]+)"/) do
+          "src=\"#{site_url}#{base_url}#{$1}\""
+        end
       end
+    end
   
-      # Replace image src paths that start with "./"
-      doc.output.gsub!(/src="\.\/([^"]+)"/) do
-        "src=\"#{site_url}#{base_path}#{$1}\""
+    module PostBaseUrlFilter
+      # Computes the base path for a post.
+      def post_base_url(post_url)
+        if post_url.end_with?(".html")
+          base = File.dirname(post_url)
+          base = '/' if base == '.'
+          base += '/' unless base.end_with?('/')
+          base
+        else
+          post_url
+        end
       end
     end
   end
+  
+  Liquid::Template.register_filter(Jekyll::AbsoluteUrlFilter)
+  Liquid::Template.register_filter(Jekyll::PostBaseUrlFilter)
   
