@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/troll-tales/feed.xml" rel="self" type="application/atom+xml" /><link href="/troll-tales/" rel="alternate" type="text/html" /><updated>2025-02-09T08:51:56+00:00</updated><id>/troll-tales/feed.xml</id><title type="html">Troll Tales</title><entry><title type="html">The People of the Forest</title><link href="/troll-tales/2025/01/19/the-people-of-the-forest/" rel="alternate" type="text/html" title="The People of the Forest" /><published>2025-01-19T00:00:00+00:00</published><updated>2025-01-19T00:00:00+00:00</updated><id>/troll-tales/2025/01/19/the-people-of-the-forest</id><content type="html" xml:base="/troll-tales/2025/01/19/the-people-of-the-forest/"><![CDATA[<p>The People of the Forest are a tribe of Firbolg dedicated to protecting an enchanted forest known as <strong>the Seam</strong> that connects the material plane with the plane of Faerie. Since the forest spans both planes, the People of the Forest end up wandering both planes and are accustomed to slipping from one world to the next, finding crossovers where others wouldn’t notice them.</p>
+
+<p><img src="./the-people-of-the-forest.jpeg" alt="The People of the Forest"></p>
+
+<h3 id="the-last-stand-at-the-gate-of-the-forest">The Last Stand at the Gate of the Forest</h3>
+
+<p>Centuries ago, the People of the Forest were tasked with guarding a fabled portal known as the Gate of the Forest - a rare passage between the Material Plane and the The Plane of Faerie. Legends speek of the rise of <strong>Kazq’athar</strong>, an ambitious warlock who amassed an army to seize this gate’s arcane power, threatening to overrun the forest and shatter the balance between worlds.</p>
+
+<p>Ordered to hold the line, most of the Firbolg defenders stood firm. But when the enemy surged forward in overwhelming numbers, panic spread. A large contingent deserted their posts, leaving their comrades outnumbered. In the final clash, the Gate itself collapsed in a burst of unstable magic, claiming the lives of defenders and invaders alike. The wild energy unleashed corrupted the woodland, spawning a host of malevolent beasts and giving rise to the dreaded Dark Tiger - a restless spirit of vengeance prowling the forest to this day.</p>
+
+<p>Those few Firbolg who survived, shamed by their moment of cowardice, vowed to remain in the forest forevermore. Naming themselves the People of the Forest, they devote their lives to mending the damage wrought by the Gate’s destruction, patching planar rifts, and warding off evil creatures that lurk among the ancient trees. Though their ancestors’ failure haunts them still, these Firbolg endure as patient, silent sentinels between two worlds - ever watchful, ever atoning.</p>
+
+<h3 id="the-prowler-in-the-dark">The Prowler in the Dark</h3>
+
+<p>The Prowler in the Dark is a manifestation of some of the energy released when the Gate of the Forest imploded. Most simply refer to it as the <strong>Dark Tiger</strong>. The name is whispered with dread throughout the forest, recalling the primeval ferocity that still stalks the ancient glades. This is the arch enemy of the People of the Forest and they are forever vigilant, keeping tabs on the whereabouts of the dark power, chipping away at the edges, where it manifests as goblins and other evil creatures of the forest.</p>
+
+<h3 id="organization">Organization</h3>
+
+<p>In order to be able to patrol the whole of the Seam, the tribe is split into multiple camps. The leader of a camp is chosen by the camp’s people and is usually the most experienced hunter or magic user and always someone trusted by the whole camp. The People of the Forest do not distinguish between male roles and female roles, and this reflects in their choices for the leaders as well, with both genders being equally likely to lead a camp.</p>
+
+<p>The camp leaders use a special stone called the singing stone to communicate over long distances and between the two planes with the other leaders, allowing them to coordinate hunts for evil creatures but also defenses and other tribe matters.</p>
+
+<h3 id="figures-of-interest">Figures of Interest</h3>
+
+<ul>
+  <li>
+<strong>Oak standing tall in the wind</strong> - the famous  camp leader of the <strong>Acorn Camp</strong> is known for his strong opinions on dealing with “outsiders”: They should go back to where they came from. He is fair, though, and will honor oaths, promises and laws where applicable. He cares deeply for his people and sees the task of the tribe as a holy, generation-spanning quest.</li>
+  <li>
+<strong>Willow bending in the wind</strong> -  used to be Oak’s wife. They parted ways a long time ago over a dispute on how to raise their son <strong>Leaf</strong> with Oak pushing Leaf to show his courage in the face of danger and Willow suggesting a more sensible approach. Leaf has not been seen since he left on a quest Oak urged him to undertake and Willow left the camp shortly after, forming her own camp, the <strong>Berries Camp</strong>, that guards the edges of the forest, while keeping an eye out for Leaf.</li>
+</ul>
+
+<h3 id="traits--tactics">Traits &amp; Tactics</h3>
+
+<ul>
+  <li>
+<strong>Archery Expertise.</strong> The tribe is famed for its <strong>Forest Bows</strong>, which require a Strength of 13 to use and deal an <strong>additional +1 piercing damage</strong>. These bows are <strong>grown from living wood</strong> gleaned from a special glade in the forest, making them nigh-unbreakable. They do not count as magical.</li>
+  <li>
+<strong>Stealth &amp; Pack Tactics.</strong> The People of the Forest move silently through the forest, blending into the forest undergrowth, to the point that even skilled trackers can’t see or hear them approach. They <strong>signal each other</strong> with birdcalls, druidic whispers, or subtle illusions gleaned from their connection to Fey magic.</li>
+  <li>
+<strong>Harassment &amp; Hit-and-Run.</strong> Rather than pitched battles, they prefer <strong>ambushes</strong> - firing from the treetops, then <strong>melting away</strong> into twisting pathways that lead deeper into the forest or even into the Plane of Faerie.</li>
+</ul>
+
+<h3 id="random-names">Random names</h3>
+
+<p>Use the following table for generating random NPC names for People of the Forest:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>d20</th>
+      <th>First name</th>
+      <th>Trait</th>
+      <th>Family</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Oak</td>
+      <td>Standing Tall</td>
+      <td>In the Wind</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Willow</td>
+      <td>Bending</td>
+      <td>Beside the River</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Ash</td>
+      <td>Reaching High</td>
+      <td>Among the Stars</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Pine</td>
+      <td>Whispering</td>
+      <td>Through the Trees</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Maple</td>
+      <td>Blazing</td>
+      <td>Under the Sun</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Birch</td>
+      <td>Shimmering</td>
+      <td>At Dawn</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Cedar</td>
+      <td>Rooted</td>
+      <td>In the Shadows</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Elm</td>
+      <td>Shelter-Giving</td>
+      <td>On the Hill</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Hawthorn</td>
+      <td>Thorned</td>
+      <td>By the Path</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Ivy</td>
+      <td>Climbing</td>
+      <td>Up the Wall</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Yew</td>
+      <td>Enduring</td>
+      <td>Through the Ages</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Rowan</td>
+      <td>Guiding</td>
+      <td>Through the Mists</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Fox</td>
+      <td>Cunning</td>
+      <td>In the Glade</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Bear</td>
+      <td>Lumbering</td>
+      <td>Across the Valley</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Wolf</td>
+      <td>Howling</td>
+      <td>Beneath the Moon</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Stag</td>
+      <td>Bounding</td>
+      <td>Over the Stream</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Sparrow</td>
+      <td>Chirping</td>
+      <td>Among the Branches</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Owl</td>
+      <td>Watching</td>
+      <td>Through the Night</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Eagle</td>
+      <td>Soaring</td>
+      <td>Over the Mountain</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Raven</td>
+      <td>Calling</td>
+      <td>Beyond the Horizon</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Roll 3d20 to generate a random name by combining one entry from each column.</p>]]></content><author><name></name></author><category term="lore" /><category term="world-building" /><summary type="html"><![CDATA[The People of the Forest are a tribe of Firbolg dedicated to protecting an enchanted forest known as the Seam that connects the material plane with the plane of Faerie. Since the forest spans both planes, the People of the Forest end up wandering both planes and are accustomed to slipping from one world to the next, finding crossovers where others wouldn’t notice them.]]></summary></entry><entry><title type="html">The Sunken Temple of Lamentra</title><link href="/troll-tales/2024/11/20/the-sunken-temple-of-lamentra/" rel="alternate" type="text/html" title="The Sunken Temple of Lamentra" /><published>2024-11-20T00:00:00+00:00</published><updated>2024-11-20T00:00:00+00:00</updated><id>/troll-tales/2024/11/20/the-sunken-temple-of-lamentra</id><content type="html" xml:base="/troll-tales/2024/11/20/the-sunken-temple-of-lamentra/"><![CDATA[<p>In this <a href="https://www.roleplayingtips.com/5-room-dungeons/" class="web-link">5 Room Dungeon</a>, the adventurers venture into a site long forgotten that used to be a temple to the <a href="/troll-tales/2024/04/21/lamentra/" class="web-link">Godess Lamentra</a>.</p>
+
+<p>The main point of this quest is to retrieve an important item at the end of the dungeon. How the player hears about the Sunken Temple of Lamentra and what exactly they need to retrieve can be filled with whatever your campaign needs.</p>
+
+<p>In the case of Thalya Dawnstrider in the Whispers of the Waning Wild, she was sent to the temple to retrieve something, <em>anything</em> that might help gain access to the Realm of Shadows and Sorrow. She also received a long-overdue magic item, her first: A Necklace of Fireballs.</p>
+
+<p>I placed the temple in a swamp, but it can probably also be placed in other locations with enough water for the temple to actually sink into.</p>
+
+<p>The dungeon consists of the following rooms:</p>
+
+<ul>
+  <li>The Waterlogged Antechamber</li>
+  <li>The Chapel of Lost Voices and Reflections</li>
+  <li>The Sunken Sanctum</li>
+  <li>Lamentra’s Shrine of Rest</li>
+</ul>
+
+<h2 id="the-waterlogged-antechamber">The Waterlogged Antechamber</h2>
+
+<p>A partially submerged stone chamber with cracked walls where vines and moss cover ancient reliefs showing the legend of Lamentra, starting with the death of her son, the accusation, fleeing to the dark forest and her return as a hunter of human souls and bringer of grief. The story is not completely depicted as many parts have withered away.</p>
+
+<p>The air is thick and damp, and the murky water comes up to knee level.</p>
+
+<p>There are <strong>crocodiles</strong> lurking in the dark waters. Make sure to drag any players grappled by the crocodiles underwater and spin them about like in Crocodile Dundee: Let them come up for air, gasping.</p>
+
+<p><img src="./the-waterlogged-antechamber.png" alt="The Waterlogged Antechamber"></p>
+
+<h2 id="the-chapel-of-lost-voices-and-reflections">The Chapel of Lost Voices and Reflections</h2>
+
+<p>Rows of <strong>broken pews</strong> face an <strong>altar</strong> upon which rests an <strong>empty, wooden crib</strong>. The walls are covered in faded carvings depicting mortals pleading for mercy. Every few feet, a <strong>polished stone that reflects dim torchlight eerily</strong> adorns the wall, almost as though shadows are watching from every corner. The <strong>floor is slick</strong> (Difficult Terrain) with algae, making movement hazardous.</p>
+
+<p>A haunting presence fills the room. Whispers of Lamentras followers linger here, growing louder and softer intermittently. Any disrespect toward the crib might trigger the presence’s ire. This could be a hauntig leading to the frightened condition on a failed saving throw. Or worse, depending on the nature of the disrespect - maybe even the effects of the <strong>Bane</strong> spell.</p>
+
+<p>The reflection of each character seems to hide a <strong>dark purple flower</strong>. The flower is deadly nightshade and can easily be recognized by anyone with any nature skills. Collecting the flower makes the polished stone become an <strong>corridor to the Sunken Sanctum</strong>.</p>
+
+<p>The <strong>reflections</strong> occasionally manifest as <strong>shadowy duplicates</strong> of the party, trying to pull them into the walls. Characters must make <strong>saving throws (DC 10 WIS)</strong> to resist the pull of their own shadows. A character failing the saving throw will find themself in a room with four walls each a window into the chapel, each showing the same perspective. The floor is black and the ceiling is white. There is nothing else in the room except a purple flower that the character is now holding in their off-hand. The walls can be shattered with a DC 13 Strength check. The character keeps the flower and touching that to one of the other polished stones will open up the corridor.</p>
+
+<p><img src="./the-chapel-of-lost-voices-and-reflections.png" alt="The Chapel of Lost Voices and Reflections"></p>
+
+<h2 id="the-sunken-sanctum">The Sunken Sanctum</h2>
+
+<p>A deep, flooded room with stepping stones and crumbling pillars. In the center, partially submerged, is an <strong>altar</strong> with an <strong>obsidian sculpture</strong> representing Lamentra, surrounded by <strong>lit candles</strong> that never seem to go out, despite the dampness.</p>
+
+<p>The water here hides a swarm of <strong>poisonous snakes</strong> that will attack anyone who disturbs the altar. Additionally, stepping in the wrong spot (<em>DC 15 DEX</em>) triggers a hidden, necrotic trap that lashes out with shadowy tendrils (<em>1d6 necrotic</em>). The stepping stones contain engravings of deadly nightshade leaves, all pointing towards the center, except for a few pointing towards the entrance to the chamber.</p>
+
+<p>Reaching the sculpture and touching it will drain the floor and show a <strong>stairway leading down</strong>. You can describe the obsidian sculpture as folding in on itself, piece by piece and unfolding into the stairs, with very sharp edges.</p>
+
+<p><img src="./the-sunken-sanktum.png" alt="The Sunken Sanctum"></p>
+
+<h2 id="lamentras-shrine-of-rest">Lamentra’s Shrine of Rest</h2>
+
+<p>At the end of the temple lies a <strong>dark, circular room</strong> with a <strong>massive stone sarcophagus in the center</strong>. The tomb is overgrown with <strong>thorny vines</strong>. The air here is cold and heavy with the <strong>scent of decaying flowers</strong>. Ancient bones of previous followers lie scattered across the floor, covered in <strong>thick layers of dust and mold</strong>.</p>
+
+<p>A final guardian spirit, a <strong>specter</strong> devoted to the Lamentra, rises to defend the shrine. It will only allow characters to pass if they can show proper reverence to the godess’ sorrow or defeat it in combat. The specter used to be a Paladin named <strong>Rolor</strong> and does not quite understand he’s dead yet.</p>
+
+<p>If the battle seems too easy, the bones can assemble into waves of <strong>skeletons</strong>. They also have loot on them.</p>
+
+<p><img src="./lamentras-shrine-of-rest.png" alt="Lamentra's Shrine of Rest"></p>
+
+<h2 id="example-reward">Example Reward</h2>
+
+<p>An ancient scroll detailing The Ritual of the Shadow Reflection that can be used to open a portal to the Realm of Shadows and Sorrow. The ingredients for this ritual provide more quests.</p>
+
+<p>One of the bones is a broken piece of a lower jaw engraved with a strange writing. The bone is faded to a dark yellow, but the engraving seems fresh.</p>]]></content><author><name></name></author><category term="world-building" /><category term="kamaris" /><category term="fantastic-location" /><category term="5-room-dungeon" /><summary type="html"><![CDATA[In this 5 Room Dungeon, the adventurers venture into a site long forgotten that used to be a temple to the Godess Lamentra.]]></summary></entry><entry><title type="html">Lirendel</title><link href="/troll-tales/2024/11/12/lirendel/" rel="alternate" type="text/html" title="Lirendel" /><published>2024-11-12T00:00:00+00:00</published><updated>2024-11-12T00:00:00+00:00</updated><id>/troll-tales/2024/11/12/lirendel</id><content type="html" xml:base="/troll-tales/2024/11/12/lirendel/"><![CDATA[<p>Lirendel is an <strong>elven city</strong> built high in the branches of an ancient grove of <strong>Sequoia trees</strong>. The architecture blends living wood and crystal, which glow softly to illuminate the platforms and bridges shaped by elven magic. Silver ivy forms pathways between homes nestled in the branches, with hanging gardens blooming year-round.</p>
+
+<p>Scholars and druids gather in the <strong>Luminous Library</strong>, where knowledge is stored in the leaves of the trees. At the city’s heart stands <strong>Ithilgalad</strong>, an ancient tree where ceremonies and council meetings take place.</p>
+
+<p>Though serene, Lirendel is well-defended by shifting branches and vigilant sentinels. A corps of archers known as the <strong>Lirendel Archers</strong> watch from hidden vantage points, always ready to protect the grove.</p>
+
+<p><img src="./lirendel.jpeg" alt="Lirendel"></p>
+
+<h2 id="government">Government</h2>
+
+<p>Lirendel is governed by a Counsel of three elves:</p>
+<ul>
+  <li>
+<strong>Ilanis Naïlo</strong> - female, stern, <em>ancient</em>, responsible for managing the wisdom collected in the Ithilgalad</li>
+  <li>
+<strong>Peren Ostoroth</strong> - male, middle aged, hot headed, responsible for the defences of the city</li>
+  <li>
+<strong>Mya</strong> - female child, responsible for the future of elven-kind and contact to the other races</li>
+</ul>
+
+<p>Contrary to expectations many visitors to Lirendel have, Mya is actually the most powerful of the council. This is because the Elves realised long ago that their longevity can lead to getting stuck in their ways of thinking and young Elves are tasked with making sure the Government can respond to new situations appropriately, with the elder members of the council advising. <strong>Peren</strong> secretly would like to have more control, though.</p>
+
+<p>The main government building is structured around the <strong>Ithilgalad</strong>, the oldest and tallest of the Sequoia trees in the middle of Lirendel. The Ithilgalad houses the <strong>Council Court</strong> and the <strong>Library</strong>. It is heavily guarded, though <em>citizens</em> of Lirendel can pass in and out freely.</p>
+<h2 id="underground">Underground</h2>
+
+<p>Not all inhabitants of Lirendel are considered <em>citizens</em> and thus allowed free access to the knowledge stored in the Ithilgalad. Only Elves are given this status. Half-Elves, ambassadors from other races and especially the large community of <strong>Forest Gnomes</strong> tasked with maintenance and other menial work are considered second-class and have less rights in Lirendel Society.</p>
+
+<p>The Forrest Gnomes have an underground organization, called simply the <strong>Union</strong>. Getting into contact with the Union can be tricky business as they’re not strictly a legal institution. Some senior members can be found in <strong>The Burrow</strong>, a pub mainly frequented by Gnomes and other lower-class folk in the poorer parts of Lirendel - in the roots of the Sequoias.</p>
+
+<p><strong>Greta Waldmut</strong> is the leader of the Union. She is an elderly matron. She isn’t planning a revolution. Just… recognition for the work done by the forest gnomes in Lirendel.</p>
+
+<h2 id="altars">Altars</h2>
+
+<p>At the root of the Ithilgalad, there is an entrance to a <strong>grotto</strong>. Inside the grotto is a deep pond that connects Lirendel to the spirit of <strong>Sehanine Moonbow</strong>. The grotto serves as a sacred space for elves of Lirendel to connect with their <strong>goddess of the moon, dreams, and mysteries</strong>. At the edge of the pond is a beautiful, natural altar where offerings are left during times of reflection, change, and celestial events.</p>
+<h2 id="resources">Resources</h2>
+
+<p>The main resource in Lirendel is the <strong>Luminous Library</strong> - the wealth of knowledge stored in the leaves of ancient Sequoia trees. Most of the Elves in Lirendel are connected to this library in some way.</p>
+
+<p>The knowledge stored in the Library is not given freely. Instead, <strong>the Elves trade knowledge for resources</strong>, especially materials and products hard to obtain in the forest.</p>
+
+<p>The clerics in the sacred grotto can extract <strong>Elixirs of Health</strong> by combining Moonlight and Sap from the Redwood trees. The Elves feel duty bound to help restore creatures to health that are brought to the grotto - as long as a <strong>pact of non-violence</strong> is kept.</p>
+<h2 id="defences">Defences</h2>
+
+<p>The <strong>Lirendel Archers</strong> are famous for their skills with the Elven Longbow. The corps is 100 men strong and they use the Elvish Veteran Archer stats from the Tome of Beasts:</p>
+
+<pre><code class="language-statblock">creature: Elvish Veteran Archer
+</code></pre>
+
+<p>The <strong>Mists of Memory</strong> makes it very hard (DC 15 INT) for creatures to enter the city without becoming confused and turning back unless guided through. There is an official gate to Lirendel just outside the mists where visitors can request a visa and entry to the city.</p>
+
+<h2 id="social">Social</h2>
+
+<p>The elves love to socialise, especially under the light of the moon. These revels include laughter, merriment, music and lightly intoxicating sequoia sap brews.</p>
+
+<p>The other races, except for important guests, are often in the background of these parties. Instead, they tend to congregate in pubs located among the roots of the sequoias, for example the <strong>Burrow</strong>, a pub serving ale and mushroom stew frequented by forest gnomes, including the <strong>Union</strong>, an egalitarian organisation working for the rights of non-elves in Lirendel.</p>
+
+<p>A speciality in Lirendel is their flat bread, a bit like Naan, but light as a feather and spicy, tasting a bit like a combination of cinnamon and maple sirup.</p>
+
+<h2 id="important-landmarks-in-lirendel">Important Landmarks in Lirendel</h2>
+
+<p><strong>Ithilgalad</strong>: The central and most sacred tree of Lirendel, the Ithilgalad serves as the heart of the city. It is where important ceremonies are held, council meetings take place, and the city’s history is recorded.</p>
+
+<p><strong>Luminous Libraries</strong>: Located high in the branches, these libraries are unique as they store knowledge in the leaves of the trees themselves. The largest of these libraries is located in the <strong>Ithilgalad</strong> itself,  containing the most valuable and ancient knowledge. Scholars and druids gather here to learn and meditate. The leaves can be read by those attuned to the magic, revealing words and symbols that shift with thought, while writing is done through whispered incantations that imprint knowledge onto the foliage.</p>
+
+<p><strong>The Hanging Gardens</strong>: A series of gardens suspended along the platforms and bridges, blooming with flowers that change throughout the year. These gardens are a symbol of the elves’ harmony with nature and provide herbs and ingredients for both culinary and medicinal purposes.</p>
+
+<p><strong>Lirendel Archer Outposts</strong>: Hidden along the edges of the city, these outposts are where the Lirendel Archers keep watch. Built seamlessly into the trees, they serve as both lookout points and places of rest for the archers.</p>
+
+<p><strong>The Crystal Paths</strong>: Bridges and walkways made of living wood intertwined with crystal, these paths glow softly at night, providing light and guiding residents through the city. They are a testament to the craftsmanship of Lirendel’s artisans.</p>
+
+<p><strong>The Mists of Memory</strong>: Surrounding Lirendel, the Mists affect anyone trying to get into the city without permission by wiping their short term memory, leaving them confused and disoriented. Anyone entering the mists that fails a DC 15 INT saving throw will be affected by the mists and get lost in the forest, eventually ending up outside the mists again, but at a random place. There is a Gate in the forest along the road to Lirendel guarded by Lirendel Archers that travellers wishing to enter the city must pass through and where they can obtain a guide through the mists.</p>
+
+<p><strong>The Grotto</strong>: At the root of the Ithilgalad, there is an entrance to a <strong>grotto</strong>. Inside the grotto is a deep pond that connects Lirendel to the spirit of <strong>Sehanine Moonbow</strong>. This is tended by priestesses that perform rites and help heal creatures brought to the grotto. They also produce <strong>Elixirs of Health</strong> using the unique magic of the grotto and its connection to the godess <strong>Sehanine</strong>.</p>
+
+<h2 id="important-figures-in-lirendel-society">Important Figures in Lirendel Society</h2>
+
+<p><strong>Ilanis Naïlo</strong> - <em>Member of the Council of Lirendel</em>: Ilanis Naïlo is an ancient, stern Wood Elf. She is responsible for making decisions regarding laws, diplomacy, and city affairs. Known for her <strong>wisdom</strong> and <strong>fairness</strong>, she is a respected figure whose guidance has helped maintain peace and prosperity in Lirendel.</p>
+
+<p><strong>Peren Ostoroth</strong> - <em>Member of the Council of Lirendel</em>: Peren Ostoroth is a middle aged, hot headed Wood Elf. He is responsible for the defences of the city and any matters pertaining to relations to other cities and nations, especially during times of war. He would (not so secretly) like more power and will favour conflict in council decisions that make his position stronger.</p>
+
+<p><strong>Mya</strong> - <em>Member of the Council of Lirendel</em>: Mya is a Wood Elf child. She is repsonsible for the future of Elvenkind and must make any final decisions on the council to ensure that the Elves will prosper. It is customary to have a child in this position, as Elves live very long lives and tend to become very set in their ways of thinking. Mya is very interested in news from outside Lirendel, in adventures, new inventions, fashion, foods and all the things more mortal species keep developing.</p>
+
+<p><strong>Sylara Eleneth</strong> - <em>Commander of the Lirendel Archers</em>: Sylara Eleneth commands the Lirendel Guard, reporting directly to <strong>Peren Ostoroth</strong> and overseeing the city’s defences and ensuring the safety of its citizens. Her archery skills are unmatched, and she is known for her dedication to protecting Lirendel from any threats. She counteracts Peren’s hot headedness by being a pragmatic and capable senior officer.</p>
+
+<p><strong>Thalion Galanodel</strong> - <em>High Keeper of the Luminous Libraries</em>: Thalion Galanodel is the head of the Luminous Libraries, responsible for preserving the ancient knowledge held within the enchanted leaves. He reports directly to <strong>Ilanis Naïlo</strong>. He oversees the training of scholars and ensures that the city’s lore is safeguarded for future generations.</p>
+
+<p><strong>Maerwen Liadon</strong> - <em>Mistress of the Hanging Gardens</em>: Maerwen Liadon oversees the Hanging Gardens, ensuring that they thrive and provide both beauty and sustenance to the city. She is also a skilled herbalist, using her knowledge to provide remedies and advice to those in need.</p>
+
+<p><strong>Caerthian Ilphelkiir</strong> - <em>Master Artificer of the Crystal Paths</em>: Caerthian Ilphelkiir leads the artisans responsible for the construction and maintenance of the Crystal Paths. His expertise in blending magic with craftsmanship has been instrumental in keeping the city illuminated and connected through its intricate network of bridges and walkways.</p>
+
+<p><strong>Nythera Liadon</strong> - <em>High Priestess of the Grotto</em>: A soft spoken, kind hearted middle aged Wood Elf who has dedicated her life to the godess Sehanine.</p>
+
+<h2 id="visitor-information-and-cultural-etiquette">Visitor Information and Cultural Etiquette</h2>
+
+<p>Visitors to Lirendel are required to have an invitation or sponsorship from a resident. The paths leading to Lirendel are well-protected by the Mists of Memory, and travellers are often guided by members of the Lirendel Archers. It is important to respect the customs of the elves, including remaining quiet during ceremonies, refraining from touching sacred trees without permission, and observing the rituals of hospitality when offered.</p>
+<h2 id="accommodations-and-dining-options">Accommodations and Dining Options</h2>
+
+<p>Accommodations in Lirendel are available in the form of guest platforms, designed to provide comfort for non-elven travelers while maintaining harmony with the natural surroundings. These guest lodgings are built into the trees, offering stunning views of the grove. Dining in Lirendel is a communal affair, with meals prepared from ingredients sourced from the Hanging Gardens. Visitors can enjoy elven delicacies such as honeyed blossom cakes, herbal teas, and dishes made from fresh forest herbs and fruits. Lirendel Flatbread is a speciality that should be tried by anyone visiting the city.</p>]]></content><author><name></name></author><category term="lore" /><category term="world-building" /><category term="kamaris" /><category term="fantastic-location" /><summary type="html"><![CDATA[Lirendel is an elven city built high in the branches of an ancient grove of Sequoia trees. The architecture blends living wood and crystal, which glow softly to illuminate the platforms and bridges shaped by elven magic. Silver ivy forms pathways between homes nestled in the branches, with hanging gardens blooming year-round.]]></summary></entry><entry><title type="html">Comparing Magic User Mechanics in D&amp;amp;D 5e</title><link href="/troll-tales/2024/10/27/comparing-magic-user-mechanics/" rel="alternate" type="text/html" title="Comparing Magic User Mechanics in D&amp;amp;D 5e" /><published>2024-10-27T00:00:00+00:00</published><updated>2024-10-27T00:00:00+00:00</updated><id>/troll-tales/2024/10/27/comparing-magic-user-mechanics</id><content type="html" xml:base="/troll-tales/2024/10/27/comparing-magic-user-mechanics/"><![CDATA[<p>This is something that has been bugging me for a while now: When reading through the Player’s Handbook (PHB), it’s really hard to understand how the rules for magic <em>differ</em> between classes. If all you want to know is how magic works for your specific class, it’s perfect! But I’d like to compare and contrast the mechanics of using magic in D&amp;D 5e. So I went and did a bunch of homework to sum this up for future reference.</p>
+
+<p>This article isn’t about flavour. It’s not about how the magic using classes differ based on where they get their magic from. It’s about the core mechanics. I’m using the <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf" class="web-link">SRD</a> as a reference here, except for the Artificer, which is described in <a href="https://en.wikipedia.org/wiki/Tasha%27s_Cauldron_of_Everything" class="web-link">Tasha’s Cauldron of Everything</a>. Note that the licensing of the SRD overrules the licensing on this site for content quoted from there.</p>
+
+<p>Here’s what I learned.</p>
+<h2 id="spellcasting-basics">Spellcasting Basics</h2>
+
+<p>The various classes differ in their <strong>Spellcasting Ability</strong>. This directly affects your <strong>Spell save DC</strong> and your <strong>Spell attack modifier</strong>.</p>
+
+<blockquote>
+  <p>Spell save DC = 8 + proficiency bonus + Spellcasting Ability modifier</p>
+</blockquote>
+
+<blockquote>
+  <p>Spell attack modifier = proficiency bonus + Spellcasting Ability modifier</p>
+</blockquote>
+
+<p>Next, we can also group them into their <strong>Spellcasting Type</strong>: <strong>Full Casters</strong> and <strong>Half Casters</strong> have a different progression of spell slots, with Full Casters gaining access to level 9 spells at level 17, whereas Half Casters only going up to level 5 spells. Half Casters progress more slowly than Full Casters.</p>
+
+<p>Warlocks are the odd ones out here, being something called <strong>Pact Casters</strong>. Like Half Casters, Pact Casters only progress to level 5 spells. Unlike the other casters, their spell slots are not divided by spell level - they have less spell slots, but all spells are cast at the highest spell level they have reached. They have a lot less spell slots than the other casters, but gain them back after a short rest - instead of the long rest required by the others.</p>
+
+<p>Finally, Half Casters generally don’t get <strong>cantrips</strong>, except for the Artificer.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Spellcasting Type</th>
+      <th>Spellcasting Ability</th>
+      <th>Cantrips Known</th>
+      <th>Max Spell level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bard</td>
+      <td>Full Caster</td>
+      <td>Charisma</td>
+      <td>Yes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Cleric</td>
+      <td>Full Caster</td>
+      <td>Wisdom</td>
+      <td>Yes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Druid</td>
+      <td>Full Caster</td>
+      <td>Wisdom</td>
+      <td>Yes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Sorcerer</td>
+      <td>Full Caster</td>
+      <td>Charisma</td>
+      <td>Yes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Wizard</td>
+      <td>Full Caster</td>
+      <td>Intelligence</td>
+      <td>Yes</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Artificer</td>
+      <td>Half Caster</td>
+      <td>Intelligence</td>
+      <td>Yes</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Paladin</td>
+      <td>Half Caster</td>
+      <td>Charisma</td>
+      <td><strong>No</strong></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Ranger</td>
+      <td>Half Caster</td>
+      <td>Wisdom</td>
+      <td><strong>No</strong></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Warlock</td>
+      <td><strong>Pact Caster</strong></td>
+      <td>Charisma</td>
+      <td>Yes</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="spell-preparation-and-spell-learning">Spell Preparation and Spell Learning</h2>
+
+<p>The next table focuses on how each class manages their spells, including how they acquire new spells, whether they need to prepare spells, and how they recover their spell slots.</p>
+
+<p>There are two main ways a magic user learns spells:</p>
+<ul>
+  <li>Choose new spells when levelling up / No preparation needed</li>
+  <li>Access to entire spell list / Prepare spells each day</li>
+</ul>
+
+<p>The Wizard class is an outlier here: They need to prepare spells each day, but they don’t automatically have access to the entire Wizard spell list. Instead, they’re supposed to go and find additional spells in dungeons, old books, scrolls etc. in addition to the spells they get to choose when levelling up.</p>
+
+<p>The Half Casters also don’t all use the same strategy. Artificer and Paladin are supposed to prepare spells each day. The amount of spells they can prepare is calculated using the following formula:</p>
+
+<blockquote>
+  <p>Number of spells prepared: Spell Ability modifier + half your level, rounded down (minimum of one spell).</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>How They Get New Spells</th>
+      <th>Prepare</th>
+      <th>Recovery Mechanism</th>
+      <th>Spellcasting Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bard</td>
+      <td>Choose new spells when leveling up</td>
+      <td>No preparation needed</td>
+      <td>Long rest</td>
+      <td>Musical Instrument</td>
+    </tr>
+    <tr>
+      <td>Cleric</td>
+      <td>Access to entire Cleric spell list</td>
+      <td>Prepare spells each day</td>
+      <td>Long rest</td>
+      <td>Holy Symbol</td>
+    </tr>
+    <tr>
+      <td>Druid</td>
+      <td>Access to entire Druid spell list</td>
+      <td>Prepare spells each day</td>
+      <td>Long rest</td>
+      <td>Druidic Focus</td>
+    </tr>
+    <tr>
+      <td>Sorcerer</td>
+      <td>Choose new spells when leveling up</td>
+      <td>No preparation needed</td>
+      <td>Long rest</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Wizard</td>
+      <td>Choose new spells when leveling up <strong>or copy from spell scrolls/books</strong>
+</td>
+      <td>Prepare spells each day</td>
+      <td>Long rest</td>
+      <td>Arcane Focus</td>
+    </tr>
+    <tr>
+      <td>Artificer</td>
+      <td>Access to entire Artificer spell list</td>
+      <td>Prepare spells each day</td>
+      <td>Long rest</td>
+      <td>Tools/Arcane Focus</td>
+    </tr>
+    <tr>
+      <td>Paladin</td>
+      <td>Access to entire Paladin spell list</td>
+      <td>Prepare spells each day</td>
+      <td>Long rest</td>
+      <td>Holy Symbol</td>
+    </tr>
+    <tr>
+      <td>Ranger</td>
+      <td>Choose new spells when leveling up from Ranger spell list</td>
+      <td>No preparation needed</td>
+      <td>Long rest</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Warlock</td>
+      <td>Choose new spells when leveling up from Warlock spell list</td>
+      <td>No preparation needed</td>
+      <td>Short rest</td>
+      <td>Arcane Focus</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Of course there are other differences, special features and perks of the different classes, but these are the main ones affecting the main mechanics of using magic.</p>]]></content><author><name></name></author><category term="dungeon-master" /><category term="rules" /><summary type="html"><![CDATA[This is something that has been bugging me for a while now: When reading through the Player’s Handbook (PHB), it’s really hard to understand how the rules for magic differ between classes. If all you want to know is how magic works for your specific class, it’s perfect! But I’d like to compare and contrast the mechanics of using magic in D&amp;D 5e. So I went and did a bunch of homework to sum this up for future reference.]]></summary></entry><entry><title type="html">Lazy Player Tokens</title><link href="/troll-tales/2024/10/12/lazy-player-tokens/" rel="alternate" type="text/html" title="Lazy Player Tokens" /><published>2024-10-12T00:00:00+00:00</published><updated>2024-10-12T00:00:00+00:00</updated><id>/troll-tales/2024/10/12/lazy-player-tokens</id><content type="html" xml:base="/troll-tales/2024/10/12/lazy-player-tokens/"><![CDATA[<p>Last weekend, I spent <em>hours</em> going over the tokens at <a href="https://game-icons.net/" class="web-link">Game-icons.net</a>, sifting for those I could use as lazy player tokens, following the guide from Sly Flourish on <a href="https://slyflourish.com/crafting_lazy_monster_tokens.html" class="web-link">Crafting Lazy Monster Tokens for D&amp;D</a>.</p>
+
+<p>I have made the set of monster tokens as described in that article, pasting them back-to-back instead of using the magnets. I like this better than the magnets, which I had also experimented with, because magnets tend to stick together and then the tokens all sort of <em>clump</em> together.</p>
+
+<p>The scheme of the monster tokens by Sly Flourish is black on a white background. So for the player tokens, I’ve chosen white on a black background, which is also the default on Game-icons.net. The black circle is actually 0.9 inches, so when you cut the tokens out with a 1 inch punch, you’ll have a little white border which I think works quite nicely.</p>
+
+<p>Since the icons are offered with the <a href="https://creativecommons.org/licenses/by/3.0/" class="web-link">CC BY 3.0</a> license, it’s only fair I share my derivative work with the same license.</p>
+
+<p>Here’s the PDF containing the tokens: <a href="./lazy-player-tokens.pdf" class="web-link">Lazy Player Tokens</a>.</p>
+
+<p>I’d like to point out that the term “lazy” here is a nod to <a href="https://slyflourish.com/" class="web-link">Sly Flourish</a> who’s excellent book <a href="https://shop.slyflourish.com/products/return-of-the-lazy-dungeon-master" class="web-link">Return of the Lazy Dungeon Master</a> has shaped how I view the game. I’ve ended up buying all his products, so I might just be a biased fan-boy, but… check it out. There’s some great content there!!</p>
+
+<p><img src="./lazy-player-tokens.jpeg" alt="Lazy Player Tokens Photo"></p>]]></content><author><name></name></author><category term="dungeon-master" /><summary type="html"><![CDATA[Last weekend, I spent hours going over the tokens at Game-icons.net, sifting for those I could use as lazy player tokens, following the guide from Sly Flourish on Crafting Lazy Monster Tokens for D&amp;D.]]></summary></entry><entry><title type="html">Give Your Scenes Movement</title><link href="/troll-tales/2024/06/21/give-your-scenes-movement/" rel="alternate" type="text/html" title="Give Your Scenes Movement" /><published>2024-06-21T00:00:00+00:00</published><updated>2024-06-21T00:00:00+00:00</updated><id>/troll-tales/2024/06/21/give-your-scenes-movement</id><content type="html" xml:base="/troll-tales/2024/06/21/give-your-scenes-movement/"><![CDATA[<p>Just watched the following video on youtube: <a href="https://www.youtube.com/watch?v=Sd2svbU7t50" class="web-link">D&amp;D Exploration SUCKS. This is why</a>.</p>
+
+<p>It suggests to always add some <em>movement</em> in scene descriptions.</p>
+
+<p>We’ve all heard of incorporating all the senses, but actually having motion being called out is something I’m totally going to give a try!</p>]]></content><author><name></name></author><category term="dungeon-master" /><summary type="html"><![CDATA[Just watched the following video on youtube: D&amp;D Exploration SUCKS. This is why.]]></summary></entry><entry><title type="html">NPC Development Questions (d20 Table)</title><link href="/troll-tales/2024/06/17/npc-development-questions/" rel="alternate" type="text/html" title="NPC Development Questions (d20 Table)" /><published>2024-06-17T00:00:00+00:00</published><updated>2024-06-17T00:00:00+00:00</updated><id>/troll-tales/2024/06/17/npc-development-questions</id><content type="html" xml:base="/troll-tales/2024/06/17/npc-development-questions/"><![CDATA[<p>Here’s a list of questions that could be used to help flesh out an NPC. I suggest rolling 3 times on the list and answering the random question.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>d20 Roll</th>
+      <th>Question</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>What is a significant event from your past that shaped who you are today?</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>What are your greatest fears or anxieties?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>What motivates you to achieve your goals?</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Who are the most important people in your life?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>What does a perfect day look like for you?</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>What core values drive your decisions and actions?</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>How do you react to stress and pressure?</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>What are your primary skills and talents?</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>What are your short-term and long-term goals?</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>How do you handle failure and setbacks?</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>What are your relationships like with family and friends?</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>How do you express your emotions?</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>What are some of your most notable personality quirks?</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>What habits do you have that might seem strange to others?</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>What is something you enjoy doing that others might find surprising?</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>How do you cope with grief and loss?</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Where did you grow up and what was your family life like?</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>What is your current occupation or role in society?</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>How do you interact with strangers or new acquaintances?</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>If you could change one thing about your life, what would it be?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>If you want more variety, try this table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>d100 Roll</th>
+      <th>Question</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>What is a significant event from your past that shaped who you are today?</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>What are your greatest fears or anxieties?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>What motivates you to achieve your goals?</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Who are the most important people in your life?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>What does a perfect day look like for you?</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>What core values drive your decisions and actions?</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>How do you react to stress and pressure?</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>What are your primary skills and talents?</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>What are your short-term and long-term goals?</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>How do you handle failure and setbacks?</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>What are your relationships like with family and friends?</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>How do you express your emotions?</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>What are some of your most notable personality quirks?</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>What habits do you have that might seem strange to others?</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>What is something you enjoy doing that others might find surprising?</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>How do you cope with grief and loss?</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Where did you grow up and what was your family life like?</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>What is your current occupation or role in society?</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>How do you interact with strangers or new acquaintances?</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>If you could change one thing about your life, what would it be?</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>What is your biggest regret?</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>How do you unwind after a long day?</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>What is your favorite memory?</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>What is your greatest achievement?</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Who is your hero or role model?</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>What is your favorite hobby?</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>What is your most prized possession?</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>How do you handle conflict?</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>What is your greatest weakness?</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>What is your favorite place in the world?</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>How do you describe yourself to others?</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>What is your most embarrassing moment?</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>What is your philosophy on life?</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>What are you most passionate about?</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>What are your political views?</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>What is your relationship with money?</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>How do you handle success?</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>What do you think happens after death?</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>What is your biggest pet peeve?</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>What is your favorite book or movie?</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>What is your biggest fear?</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>What motivates you to get out of bed in the morning?</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>What is your favorite food?</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>What is your biggest dream?</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>How do you spend your free time?</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>What do you value most in a friend?</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>How do you deal with difficult people?</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>What is your favorite quote?</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>What is your favorite song?</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>What do you think is your best quality?</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>What is the most challenging experience you have faced?</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>How do you define success?</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>What do you want people to remember you for?</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>How do you feel about taking risks?</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>What is your biggest insecurity?</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>What are you most proud of?</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>What is your idea of a perfect vacation?</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>What are your spiritual beliefs?</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>What do you believe is the meaning of life?</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>How do you handle criticism?</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>What is your favorite time of day?</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>What is your biggest secret?</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>What is the most important lesson you have learned?</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>How do you deal with change?</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>What is your relationship with your parents?</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>How do you handle disappointment?</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>What are your dreams for the future?</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>What is the best advice you have ever received?</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>What is the most spontaneous thing you have ever done?</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>How do you make decisions?</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>What is your favorite childhood memory?</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>How do you deal with stress?</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>What is your proudest moment?</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>What are you afraid of?</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>What do you do for fun?</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>What is your biggest challenge right now?</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>How do you stay motivated?</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>What are your strengths and weaknesses?</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>How do you define happiness?</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>What are your future goals?</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>How do you handle loneliness?</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>What is your greatest ambition?</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>What is your favorite way to relax?</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>How do you approach new opportunities?</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>What do you consider your biggest failure?</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>What is your favorite thing about yourself?</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>How do you express your creativity?</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>What is your most memorable dream?</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>How do you feel about your appearance?</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>What is your favorite season?</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>How do you deal with difficult situations?</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>What are your beliefs about love?</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>What is your biggest passion?</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>What do you do to stay healthy?</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>What do you want to achieve in the next year?</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>How do you handle being alone?</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>What is your favorite sport or physical activity?</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>How do you stay organized?</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>What is your greatest strength?</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>How do you want to be remembered?</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="random-table" /><category term="dungeon-master" /><summary type="html"><![CDATA[Here’s a list of questions that could be used to help flesh out an NPC. I suggest rolling 3 times on the list and answering the random question.]]></summary></entry><entry><title type="html">Drawing maps</title><link href="/troll-tales/2024/06/14/drawing-maps/" rel="alternate" type="text/html" title="Drawing maps" /><published>2024-06-14T00:00:00+00:00</published><updated>2024-06-14T00:00:00+00:00</updated><id>/troll-tales/2024/06/14/drawing-maps</id><content type="html" xml:base="/troll-tales/2024/06/14/drawing-maps/"><![CDATA[<p>Do I even need a map? I started without, but here’s the thing: All the characters in my Gerbil King’s Quest Campaign have
+ai-generated places they <em>came</em> from. Like Ironcliff for the dwarf and Gloomhaven for the rogue. And since I want to
+put the players dead in the center of the campaign like Sly Flourish suggests, well, I kind of need to know where those
+places are and be able to show them to the players: Look, that village you defended as part of your origin story, that’s Greendale
+see? Down there, nestled between the mountains on the left (ahem, west) and those on the other side…</p>
+
+<p>I’ve always been fascinated with the style of <a href="https://watabou.itch.io/" class="web-link">watabou’s</a> <a href="https://watabou.itch.io/perilous-shores" class="web-link">Perilous Shores</a>.
+<em>That’s</em> what I want my maps to look like. And I first tried to create a template for <a href="https://dungeondraft.net/" class="web-link">Dungeondraft</a> to include those stamps.</p>
+
+<p>Long story short: I don’t really think I want my maps to be done on the computer. I want to draw them by hand. The whole point of
+pen and paper (at least to me) is to, you know, also pen and <em>paper</em>. So now I’m just trying to learn by imitating the style by hand.</p>
+
+<p>Mountains watabou style are quite easy to do. Also, the <a href="https://watabou.itch.io/icons" class="web-link">Perilous Icons</a> tool gives a ton of different city
+and towns to copy.</p>
+
+<p>I’m a bit stuck with making forests look good. Currently, this video is inspiring me: <a href="https://youtu.be/2dXymefWOuc?si=K8GHEfbgfHnQD2is" class="web-link">How to Draw Fantasy Map Trees and Forests - 5 easy styles to make your maps look awesome</a>. The third approach is very similar to what watabou does. I guess I’m now subscribed to
+<a href="https://www.youtube.com/@MapsbyOwen" class="web-link">Maps by Owen</a>.</p>
+
+<p>Here are some guiding principles that I’m making up on the spot:</p>
+
+<ul>
+  <li>start with any towns, villages etc. that the players come from</li>
+  <li>then the big cities</li>
+  <li>then mountain ranges</li>
+  <li>then lakes</li>
+  <li>then forests</li>
+  <li>don’t forget dungeons and other markers</li>
+  <li>fill in some hamlets and lone trees and marshes and stuff like that</li>
+</ul>
+
+<p>This isn’t solid advice that’s been tested: I’m literally in the process of making my own first map. BUT: This is how I think it <em>should</em> go down. Here’s why:</p>
+
+<p>The players are the most important part of the game - no game without players. And they want to know where they’re from. Since I used gen-ai to create the 
+backstories for the pre-generated characters that the players all ended up taking (easiest for first time players), there were a bunch of towns and forests mentioned
+that until I show them my map don’t really exist.</p>
+
+<p>Oh. And starting with towns and cities etc. is cool because you can make them comically large using the perilous icons mentioned above. This helps move away from “geography” maps and more to “story” maps: I firmly believe that a point crawl beats a geologically sound map anyday.</p>
+
+<p>Aaanyway. Here’s a work in progress:</p>
+
+<p><img src="./the-gerbil-kings-kingdom.jpg" alt="The Gerbil King's Kingdom"></p>]]></content><author><name></name></author><category term="worldbuilding" /><summary type="html"><![CDATA[Do I even need a map? I started without, but here’s the thing: All the characters in my Gerbil King’s Quest Campaign have ai-generated places they came from. Like Ironcliff for the dwarf and Gloomhaven for the rogue. And since I want to put the players dead in the center of the campaign like Sly Flourish suggests, well, I kind of need to know where those places are and be able to show them to the players: Look, that village you defended as part of your origin story, that’s Greendale see? Down there, nestled between the mountains on the left (ahem, west) and those on the other side…]]></summary></entry><entry><title type="html">The Golden Harpies</title><link href="/troll-tales/2024/06/03/golden-harpies/" rel="alternate" type="text/html" title="The Golden Harpies" /><published>2024-06-03T00:00:00+00:00</published><updated>2024-06-03T00:00:00+00:00</updated><id>/troll-tales/2024/06/03/golden-harpies</id><content type="html" xml:base="/troll-tales/2024/06/03/golden-harpies/"><![CDATA[<p><strong>NOTE:</strong> This article is mainly generated by ChatGPT.</p>
+
+<p>The Golden Harpies are an elite squadron of fearless female aviators known for their mastery of magical steam-punk delta gliders and their unwavering commitment to protecting the skies.
+They are based in The Harpy’s Roost, a towering natural pillar rising from the heart of the Endless Plains.</p>
+
+<p><img src="./the-harpy-s-roost.jpg" alt="The Harpy's Roost"></p>
+
+<h2 id="origins-and-history">Origins and History</h2>
+
+<p>The Golden Harpies were forged in the crucible of the War of Shattered Skies, a devastating conflict where the very heavens seemed to crack and fall. Captain Seraphina Ironwing, a brilliant tactician and pilot, gathered a group of skilled women to defend their homeland. Using her engineering genius and magical prowess, she designed the first steam-punk-magical delta-gliders. Their bravery and effectiveness in combat earned them the name “Golden Harpies,” symbolizing their fierce and protective nature.</p>
+
+<h2 id="home-base">Home Base</h2>
+
+<p>The Harpy’s Roost is a towering, jagged pillar that resembles a massive claw reaching for the heavens. Located in the heart of the Endless Plains, it is adorned with wind chimes and totems that create a haunting melody as the wind blows. The topmost chamber of the pillar is open to the sky and surrounded by intricate carvings and magical sigils. Inside, the pillar houses a labyrinth of tunnels and chambers, including training areas, living quarters, workshops, and a grand hall for gatherings and ceremonies.</p>
+
+<h2 id="societal-structure">Societal Structure</h2>
+
+<p>The Golden Harpies are led by the High Council of Wings, consisting of the most experienced and skilled pilots, headed by the Sky Matron. The ranks within the society include:</p>
+
+<ul>
+  <li>
+<strong>Sky Matron</strong>: Supreme leader and strategist.</li>
+  <li>
+<strong>Wing Commanders</strong>: Senior pilots responsible for training and leading missions.</li>
+  <li>
+<strong>Glider Knights</strong>: Seasoned fighters and guardians.</li>
+  <li>
+<strong>Sky Apprentices</strong>: New recruits undergoing rigorous training.</li>
+</ul>
+
+<h2 id="culture-and-values">Culture and Values</h2>
+
+<p>The Golden Harpies value honor, valor, unity, and sisterhood. They follow a code of conduct that emphasizes protecting the innocent and fighting with integrity. Innovation and adaptation are also crucial, as they constantly improve their gliders and tactics.</p>
+
+<h2 id="traditions-and-rituals">Traditions and Rituals</h2>
+
+<ul>
+  <li>
+<strong>Sky Baptism</strong>: New members initiate by flying through a magical storm, symbolizing their rebirth as Golden Harpies.</li>
+  <li>
+<strong>Rite of Ascension</strong>: An annual event where members can challenge for higher ranks by demonstrating their skills in aerial and combat trials.</li>
+  <li>
+<strong>Remembrance Flight</strong>: A solemn flight performed at dawn on the anniversary of the War of Shattered Skies to honor fallen comrades.</li>
+</ul>
+
+<h2 id="alliances-and-relations">Alliances and Relations</h2>
+
+<p>The Golden Harpies maintain alliances with various kingdoms, mage guilds, and the Order of the Silver Dragons, who appreciate their protection and strategic expertise. They remain vigilant against rogue sorcerers, sky pirates, and remnants of the dark forces that once threatened their realm.</p>
+
+<h2 id="legend-and-legacy">Legend and Legacy</h2>
+
+<p>According to legend, the first Golden Harpy was granted a feather of pure gold by a celestial being, symbolizing their divine mandate to protect the skies. This feather is enshrined at the top of The Harpy’s Roost and serves as a symbol of their unity and purpose.</p>
+
+<h2 id="everyday-life">Everyday Life</h2>
+
+<p>Daily life includes rigorous training sessions, both in the air and on the ground, to hone their combat and flying skills. Time is also dedicated to the upkeep and enhancement of their gliders in the Skyforge workshop. Despite their martial focus, there is a strong emphasis on community, with shared meals, storytelling, and celebrations to maintain morale and unity.</p>]]></content><author><name></name></author><category term="lore" /><category term="world-building" /><category term="fantastic-location" /><category term="chatgpt" /><summary type="html"><![CDATA[NOTE: This article is mainly generated by ChatGPT.]]></summary></entry><entry><title type="html">Campaign Notes Epiphany</title><link href="/troll-tales/2024/05/06/campaign-notes-epiphany/" rel="alternate" type="text/html" title="Campaign Notes Epiphany" /><published>2024-05-06T00:00:00+00:00</published><updated>2024-05-06T00:00:00+00:00</updated><id>/troll-tales/2024/05/06/campaign-notes-epiphany</id><content type="html" xml:base="/troll-tales/2024/05/06/campaign-notes-epiphany/"><![CDATA[<p>I was just doing my nails, getting ready for bed when I had a small epiphany:</p>
+
+<blockquote>
+  <p>Campaign notes don’t have to be perfect</p>
+</blockquote>
+
+<p>In fact, they don’t even have to match: I have an analog notebook for random ideas
+that I sometimes carry around and even less often scribble into. I also have an <a href="https://obsidian.md/" class="web-link">Obsidian</a>
+vault for keeping notes on campaigns I’m running and campaigns I’m playing in.</p>
+
+<p>And I fret. I worry. I fear inconsistencies.</p>
+
+<p>The epiphany I just had: It doesn’t really matter. There is only one SPOT (Single Point Of Truth):
+What happens at the table. Everything else doesn’t exist yet, or stopped existing the moment it
+became part of the live game. All the writing, even the stuff on this site - <em>especially</em> the stuff
+on this site, is just ephemeral (note to self: look up the exact meaning of ephemeral) to a
+dnd session and it’s ok to be messy, to be sloppy, to be, <em>*gasp*</em> inconsistent.</p>
+
+<p>I spend <em>way</em> too much time thinking about organization and restructuring.</p>
+
+<p>You know what truly creative people do? They <em>create</em>. They don’t catalogue or organize or collect. Not <em>a priori</em>.
+Not before there’s anything worth collecting. And it gets messy. And that’s beautiful in it’s own right.</p>
+
+<p>I will learn to live with the mess.</p>]]></content><author><name></name></author><category term="meta" /><summary type="html"><![CDATA[I was just doing my nails, getting ready for bed when I had a small epiphany:]]></summary></entry></feed>
