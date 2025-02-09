@@ -15,4 +15,4 @@
 - magazines
 	- https://www.worldbuildingmagazine.com/
 	- https://yumdm.com/zines/ (also interesting blog...)
-	- 
+- dm-ing in non-english settings - how to build a fantasy world that works in Swiss German
