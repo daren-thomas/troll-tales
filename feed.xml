@@ -20,7 +20,8 @@ layout: null
     <published>{{ post.date | date_to_xmlschema }}</published>
     <summary type="html"><![CDATA[{{ post.excerpt }}]]></summary>
     <content type="html"><![CDATA[
-      {{ post.content | absolute_img_urls: (post.url | post_base_url) }}
+      {% assign base = post.url | post_base_url %}
+      {{ post.content | absolute_img_urls: base }}
     ]]></content>
   </entry>
   {% endfor %}
