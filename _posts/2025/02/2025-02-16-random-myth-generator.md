@@ -19,7 +19,7 @@ I was able to extract the full list pretty easily using ChatGPT, but I won't be 
 
 Here's a fun game to play: Choose three random myths from the generator, like I did above. Then, try and distill 3 story archetypes from each of those pages. Then pick one each that seems interesting and sparks your creativity.
 
-So, _Changeling_ becomes an outsider seeking belonging - a character struggling with their identity, never . _Púca_ becomes a bargain with the unknowable - someone makes a deal with a mystical force, only to later realize the consequences are not as they expected. _Atlantis_ becomes the chosen heir of a lost civilization - a protagonist discovers they are the last link to a fallen empire, tasked with reviving or redeeming its legacy.
+So, _Changeling_ becomes an outsider seeking belonging - a character struggling with their identity, never fully fitting into one world or another. _Púca_ becomes a bargain with the unknowable - someone makes a deal with a mystical force, only to later realize the consequences are not as they expected. _Atlantis_ becomes the chosen heir of a lost civilization - a protagonist discovers they are the last link to a fallen empire, tasked with reviving or redeeming its legacy.
 
 This is a bit like playing with tarot cards.
 
