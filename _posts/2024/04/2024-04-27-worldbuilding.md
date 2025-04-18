@@ -2,7 +2,7 @@
 title: First thoughts on Worldbuilding
 layout: post
 tags:
-    - worldbuilding
+  - world-building
 ---
 
 I'm still new at this. And I haven't even gotten through all the material I've collected

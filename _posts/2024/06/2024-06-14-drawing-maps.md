@@ -2,7 +2,7 @@
 layout: post
 title: Drawing maps
 tags:
-  - worldbuilding
+  - world-building
 ---
 
 Do I even need a map? I started without, but here's the thing: All the characters in my Gerbil King's Quest Campaign have

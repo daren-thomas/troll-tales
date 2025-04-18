@@ -1,5 +1,5 @@
 ---
 layout: post
 tags: 
-title:
+title: title goes here
 ---
