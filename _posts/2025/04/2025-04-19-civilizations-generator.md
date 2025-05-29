@@ -22,6 +22,7 @@ I've split the generator up into multiple tables, each addressing one aspect of 
 - [Primary Conflict / Threat](#primary-conflict--threat)
 - [Historic Era / Stage](#historic-era--stage)
 
+I also made a PDF with all these tables rolled into one big table that prints to A4: [Civilization Generator](./Civilization Generator.pdf).
 ### Government / Power
 
 | d20    | **Government / Power**         |
