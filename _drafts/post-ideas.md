@@ -1,4 +1,3 @@
-- let's do a bunch of random tables for stuff
 - lists of words and stuff for specific scenarios
   - how to describe boat parts
   - how to describe a tavern
@@ -16,3 +15,6 @@
 	- https://www.worldbuildingmagazine.com/
 	- https://yumdm.com/zines/ (also interesting blog...)
 - dm-ing in non-english settings - how to build a fantasy world that works in Swiss German
+- i am groot npc template
+- The Oratrice d'Analyse Mechaniste - vibe on that with some kind of mechanical deity that can sum up probabilities to glimpse into the future - an LLM god if you will, and a cult surrounding it.
+- ![[Oratrice d'Analyse Mechaniste.png]]
