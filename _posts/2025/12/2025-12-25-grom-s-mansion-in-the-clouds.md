@@ -3,6 +3,7 @@ layout: post
 tags:
   - 5-room-dungeon
   - fantastic-location
+  - groms-mansion-in-the-sky
 title: Grom's Mansion in the Clouds
 ---
 Today, I'm a little disappointed. I was very excited about becoming an adventure publisher. Especially after reading [M. T. Black's The Anatomy of Adventure](https://www.mtblackgames.com/work/anatomy-of-adventure-second). I saw myself happily writing adventure after adventure in my free time, posting them here.
