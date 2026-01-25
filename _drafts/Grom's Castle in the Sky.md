@@ -1,0 +1,12 @@
+- Boneyard with Giant Crabs picking the bones clean. Scuttling.
+- Locations need atmosphere section
+- Where does Grom's power come from? And how does that make him a baddie?
+- Who else lives in this pocket kingdom?
+- how does the Stone Circle work?
+- List 5 things that can be found in the Toolshed
+- List of Giant things for contrast
+- List of secrets the fairy knows
+- Things the Crow knows
+- Why is the Crow loyal to Grom?
+- How sentient are the Crabs?
+- You're transported into a fantastical world. How is that communicated?
