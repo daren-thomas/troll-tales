@@ -18,4 +18,4 @@ A Giant Goat called Gruff lives in the garden, tied to a big fat post. The goat 
 
 This is where *Tilly Thistlewick* lives. She's made peace with the goat - and brings it treats. Gruff loves the blueberries above all other treats.
 
-The garden is connected to the [[2025-12-26-the-beanstalk-clearing|Beanstalk Clearing]] and the Stone Circle.
+The garden is connected to the [[2025-12-26-the-beanstalk-clearing|Beanstalk Clearing]] and the *Stone Circle*.

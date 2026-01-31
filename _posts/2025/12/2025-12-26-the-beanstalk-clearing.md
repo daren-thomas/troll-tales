@@ -6,11 +6,10 @@ tags:
   - groms-mansion-in-the-sky
 title: The Beanstalk Clearing
 ---
-Let's continue with the writeup of the adventure we started yesterday: [[2025-12-25-grom-s-mansion-in-the-clouds|Grom's Mansion in the Clouds]].
-
+Let's continue with the writeup of the adventure we started yesterday: [Grom's Mansion in the Clouds]({% post_url 2025/12/2025-12-25-grom-s-mansion-in-the-clouds %}).
 The players start off in the *Beanstalk Clearing*, a clearing in a faerie forest with a pond in the middle. There are large fish of many colors swimming in the pond. Two paths lead off from here through a foggy forrest. 
 
-The path to the left looks more used. If you care to look, you'll see the footprints of a large humanoid creature wearing boots. The path leads to the *Giant's Garden*.
+The path to the left looks more used. If you care to look, you'll see the footprints of a large humanoid creature wearing boots. The path leads to the [Giant's Garden]({% post_url 2026/01/2026-01-25-the-giant-s-garden %}).
 
 The path to the right is overgrown. The fog is denser here and the plantlife is a darker shade of green. The path obviously hasn't been used in quite a while. On close inspection, you might find small footprints, suggesting a small or tiny creature sneaking carefully. This path leads to *The Boneyard*.
 
