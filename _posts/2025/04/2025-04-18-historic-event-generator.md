@@ -19,6 +19,17 @@ So your world is basically just heaven and earth and you want to be all "Let The
 
 What follows is a series of d20 tables to provide sparks to get your own brain juices flowing. Roll up on each table. [You can even roll twice if you like](https://slyflourish.com/advanced_random_encounter_tricks.html). Then take a step back, go for a walk and see if you can integrate these idea seeds into a great historic event. Remember, the results here are only supposed to help you come up with ideas: Anything you don't like, ignore. Use the table to get your imagination all fired up.
 
+```troll-food
+template
+  {Historic Event Generator/Who?} {Historic Event Generator/What?} {Historic Event Generator/Where?} with the help of {Historic Event Generator/Who helped them?}, {Historic Event Generator/Why?}, {Historic Event Generator/How?}, {Historic Event Generator/When?}.
+```
+
+```troll-speak
+table: template
+count: 1
+format: paragraph
+```
+
 I also made a PDF with all these tables rolled into one big table that prints to A4: [Historic Event Generator PDF](./Historic Events Generator.pdf).
 
 ### Who?

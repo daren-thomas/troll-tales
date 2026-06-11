@@ -1,0 +1,54 @@
+.tic-widget {
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  padding: 0.75rem;
+}
+
+.tic-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.tic-controls button {
+  background: $header-footer-bg;
+  border: 1px solid $border-color;
+  border-radius: 0.35rem;
+  color: $main-text-color;
+  cursor: pointer;
+  font: inherit;
+  padding: 0.35rem 0.75rem;
+}
+
+.tic-controls button:hover,
+.tic-controls button:focus-visible {
+  background: $border-color;
+}
+
+.tic-output ol,
+.tic-output p:last-child {
+  margin-bottom: 0;
+}
+
+.tic-error {
+  color: $bright-orange;
+  margin: 0;
+}
+
+.tic-table-data {
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  color: $meta-text-color;
+  margin: 1.5rem 0;
+  padding: 0.5rem 0.75rem;
+}
+
+.tic-table-data summary {
+  cursor: pointer;
+}
+
+.tic-table-data pre {
+  margin-bottom: 0;
+  white-space: pre-wrap;
+}
