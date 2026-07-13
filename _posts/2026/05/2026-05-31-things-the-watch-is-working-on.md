@@ -90,7 +90,7 @@ format: paragraph
 | --- | ---------------------------------- |
 | 1   | all mimics                         |
 | 2   | covered in goop                    |
-| 3   | defaced with {Vandalism Type}      |
+| 3   | defaced with {Vandalism type}      |
 | 4   | sentient and on strike             |
 | 5   | all empty                          |
 | 6   | not very popular with the citizens |
