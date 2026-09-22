@@ -2,7 +2,8 @@
 layout: post
 tags:
   - world-building
-title: Oaths of the Waldstädten 
+  - oaths-of-the-waldstaedten
+title: Oaths of the Waldstädten
 ---
 
 This is a project I wish I could just buy. But it doesn't exist, so I'm now thinking
